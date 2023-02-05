@@ -3,10 +3,10 @@ NoteTaker
 
 # Features
 
-    Create, view, and delete notes
-    Store notes in a database for persistence
-    Dynamic front-end with the ability to view, edit and delete notes
-    Clean and intuitive user interface
+1 Create, view, and delete notes
+2 Store notes in a database for persistence
+3 Dynamic front-end with the ability to view, edit and delete notes
+4 Clean and intuitive user interface
     
 ---
 
@@ -26,7 +26,7 @@ Prerequisites
     Navigate to the project directory: cd note-taker
     Install dependencies: npm install
     Start the server: npm start
-    Click on this to [localhost:3000](http://localhost:3000) to access the application
+    Click on this to  [localhost](http://localhost:3000) to access the application
 ---    
 
 ## Built With
@@ -47,8 +47,4 @@ Prerequisites
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+
