@@ -1,5 +1,5 @@
 # Note-taker
-Note Taker Express is a full-stack note-taking app built with Node.js and Express.js, allowing users to create, view, and delete notes efficiently. The app features a dynamic front-end for easy note management, stores notes in a database for persistence, and has a clean and intuitive user interface.
+Note Taker Express is a note-taking app built with Node.js and Express.js, allowing users to create, view, and delete notes efficiently. The app features a dynamic front-end for easy note management, stores notes in a database for persistence, and has a clean and intuitive user interface.
 
 ---
 
@@ -45,7 +45,6 @@ Prerequisites
 ---
 
 ## License
----
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
