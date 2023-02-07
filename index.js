@@ -54,5 +54,4 @@ res.json(notes);
 });
 
 // Listen on specified port
-// app.listen(PORT, () => console.log(`Server listening on port ${PORT}`));
-app.listen(process.env.PORT || 3000);
+app.listen(PORT, () => console.log(`Server listening on port ${PORT}`));
