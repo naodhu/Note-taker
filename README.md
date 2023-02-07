@@ -39,6 +39,16 @@ Prerequisites
     CSS
     JavaScript
 ---
+
+## Screenshots
+
+<img width="1867" alt="Screen Shot 2023-02-07 at 22 31 43 pm" src="https://user-images.githubusercontent.com/113915529/217233949-257396f9-b572-4b2b-9c50-ebf0ff6c2a0e.png">
+
+
+<img width="1837" alt="Screen Shot 2023-02-07 at 22 32 34 pm" src="https://user-images.githubusercontent.com/113915529/217233994-ea0fe3d2-d14b-4eb5-9872-edeeec8cdb09.png">
+
+
+
 ## Author
 
     Naod Hunde
